@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<oembed><version>1.0</version><provider_name/><provider_url>http://localhost/wordpress</provider_url><author_name>tempulli</author_name><author_url>http://localhost/wordpress/author/tempulli/</author_url><title>Project EDWARD 2019 -</title><type>rich</type><width>600</width><height>338</height><html>&lt;blockquote class="wp-embedded-content"&gt;&lt;a href="http://localhost/wordpress/project-edward-2019/"&gt;Project EDWARD 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script type='text/javascript'&gt;
+&lt;!--//--&gt;&lt;![CDATA[//&gt;&lt;!--
+		/*! This file is auto-generated */
+		!function(c,d){"use strict";var e=!1,n=!1;if(d.querySelector)if(c.addEventListener)e=!0;if(c.wp=c.wp||{},!c.wp.receiveEmbedMessage)if(c.wp.receiveEmbedMessage=function(e){var t=e.data;if(t)if(t.secret||t.message||t.value)if(!/[^a-zA-Z0-9]/.test(t.secret)){for(var r,a,i,s=d.querySel
